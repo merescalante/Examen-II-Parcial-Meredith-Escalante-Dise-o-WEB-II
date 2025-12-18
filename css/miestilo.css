@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.responsive-img {
+  width: 100%;
+  max-width: 350px;
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.section {
+  width: 100%;
+  padding: 16px;
+}
+
+
+.demo-card-header-pic .card-header {
+  height: 200px;
+  background-size: cover;
+  background-position: center;
+  background-color: #000000;
+}
+
+.searchbar-inner {
+  background-color: #292a2b;
+  border-radius: 20px; 
+ }
+
+
+
+ .color-gray{
+  background-color: rgb(53, 52, 52);
+ }
